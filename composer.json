@@ -1,8 +1,6 @@
 {
   "name": "starbug/devel",
   "description": "Starbug development and testing tools.",
-  "minimum-stability": "dev",
-  "prefer-stable": true,
   "require": {
     "starbug/standard": "*",
     "phpspec/phpspec": "*",
