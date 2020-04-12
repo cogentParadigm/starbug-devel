@@ -12,6 +12,7 @@
     "behat/mink-extension": "*",
     "starbug/behat-starbug-extension": "*",
     "phpunit/phpunit": "*",
-    "phpunit/dbunit": "*"
+    "phpunit/dbunit": "*",
+    "phan/phan": "*"
   }
 }
